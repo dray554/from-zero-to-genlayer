@@ -1,7 +1,5 @@
 # from-zero-to-genlayer
 A beginner-friendly, hands-on tutorial that takes newcomers from zero to building a simple GenLayer dApp using Intelligent Contracts, GenLayer Studio, Optimistic Democracy, and genlayer-js.
-# from-zero-to-genlayer
-A beginner-friendly, hands-on tutorial that takes newcomers from zero to building a simple GenLayer dApp using Intelligent Contracts, GenLayer Studio, Optimistic Democracy, and genlayer-js.
 # From Zero to GenLayer  
 ### Building an AI Dispute Resolver with Intelligent Contracts
 
